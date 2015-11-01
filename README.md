@@ -71,4 +71,4 @@ CSWAnimatedTextViewExample uses portions of code from the following sources.
 
 | Component     | Description   | License  |
 | ------------- |:-------------:| -----:|
-| [NKOColorPickerView](https://github.com/nakiostudio/NKOColorPickerView)      | A block based and easy to use Color Picker View for iOS. | [MIT](https://github.com/nakiostudio/NKOColorPickerView/blob/master/LICENSE) |
+| [NKOColorPickerView](https://github.com/nakiostudio/NKOColorPickerView)      | A block based and easy to use Color Picker View for iOS. | MIT |
