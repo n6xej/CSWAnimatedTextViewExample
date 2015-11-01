@@ -10,8 +10,7 @@ A Text View that shows the texts as a color gradient that animates
 
 ### iPhone
 
-![](/ScreenShot/ScreenShot4.png) 
-<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextViewExample/master/ScreenShot/ScreenShot1.png"/></p>
+<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextViewExample/master/ScreenShot/ScreenShot4.png"/></p>
 <p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextViewExample/master/ScreenShot/ScreenShot2.png"/></p>
 <p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextViewExample/master/ScreenShot/ScreenShot3.png"/></p>
 
