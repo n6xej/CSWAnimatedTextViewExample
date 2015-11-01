@@ -39,6 +39,9 @@ identity inspector Custom Class
 ```
     
 ```
+## Author
+
+Christopher Worley, n6xej@aim.com
 
 # License
 
