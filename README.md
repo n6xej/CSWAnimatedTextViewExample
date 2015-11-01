@@ -35,9 +35,12 @@ titleString - Text of the Text View
  can be added to your controller's view using Interface Builder or programmatically with the following code:
 identity inspector Custom Class
 
+## Podfile
 ```
-    
-```
+pod 'CSWAnimatedTextView'
+pod 'NKOColorPickerView'
+
+``` 
 ## Author
 
 Christopher Worley, n6xej@aim.com
