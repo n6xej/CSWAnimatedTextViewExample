@@ -41,6 +41,11 @@ pod 'CSWAnimatedTextView'
 pod 'NKOColorPickerView'
 
 ``` 
+
+# Class Project
+
+[CSWAnimatedTextView class files](https://github.com/n6xej/CSWAnimatedTextView)
+
 ## Author
 
 Christopher Worley, n6xej@aim.com
